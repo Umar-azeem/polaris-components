@@ -1,4 +1,4 @@
- import { PropsWithChildren, useCallback, useState } from 'react';
+import { PropsWithChildren, useCallback, useState } from 'react';
 import { useRouter } from 'next/router';
 import { Badge, Frame, Navigation, TopBar, useBreakpoints } from '@shopify/polaris';
 import { AppsIcon, ChevronRightIcon, HomeIcon, ChatIcon, CodeIcon } from '@shopify/polaris-icons';
